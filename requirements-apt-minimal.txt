@@ -1,0 +1,4 @@
+git
+python-dev
+python-pip
+python-setuptools
